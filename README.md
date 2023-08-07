@@ -7,3 +7,5 @@ Unkown? Unknown keyboard yes
 - https://github.com/system76/launch/tree/master/chassis/launch-lite
 - https://github.com/system76/launch/tree/master/pcb-lite
 - https://github.com/system76/qmk_firmware/tree/master/keyboards/system76/launch_lite_1
+- https://jlcpcb.com/coupon-center
+- https://3d.jlcpcb.com/
