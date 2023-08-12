@@ -16,6 +16,7 @@ La PCB es el elemento más importante ya que venimos de la ingeniería electrón
 - Leds independientes
 - Swicth para apagar
 - ? Batería
+- ? Canales en las filas de las teclas para la flexibilidad de PCB
 
 ## Resources
 - https://github.com/system76/launch/tree/master
