@@ -15,7 +15,8 @@ La PCB es el elemento más importante ya que venimos de la ingeniería electrón
 - ? Bluetooth + 2.4 GHz
 - Leds independientes
 - Swicth para apagar
-- ? Batería
+- ? Batería. Un módulo a parte que puede ser acoplado opcionalmente
+  - ? Carga inalámbrica. Al menos dejar los contactos para soldarlo como opcional
 - ? Canales en las filas de las teclas para la flexibilidad de PCB
 
 ## Resources
