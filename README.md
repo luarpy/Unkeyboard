@@ -22,6 +22,7 @@ La PCB es el elemento más importante ya que venimos de la ingeniería electrón
   - Los plugins deben conectarse o por conexiones físicas o bluetooth LE.
   - Protocolos para la comunicación entre plugins: uart, i2c, canbus, USB
 - Pines pare resetear el microcontrolador
+- Top mount para mejorar el ruido. El sonido se ve reflejado hacia arriba
 
 ## Resources
 - https://github.com/system76/launch/tree/master
