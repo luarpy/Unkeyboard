@@ -18,6 +18,10 @@ La PCB es el elemento más importante ya que venimos de la ingeniería electrón
 - ? Batería. Un módulo a parte que puede ser acoplado opcionalmente
   - ? Carga inalámbrica. Al menos dejar los contactos para soldarlo como opcional
 - ? Canales en las filas de las teclas para la flexibilidad de PCB
+- Plugins
+  - Los plugins deben conectarse o por conexiones físicas o bluetooth LE.
+  - Protocolos para la comunicación entre plugins: uart, i2c, canbus, USB
+- Pines pare resetear el microcontrolador
 
 ## Resources
 - https://github.com/system76/launch/tree/master
