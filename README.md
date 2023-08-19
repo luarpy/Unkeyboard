@@ -27,7 +27,7 @@ La PCB es el elemento más importante ya que venimos de la ingeniería electrón
 
 ## Workline
 ```mermaid
-flowchart TD
+flowchart LR
     A[Unkeyboard] -->|Study| B[Lista de materiales]
     B --> |Servicios|C[Diseño PCB]
     B --> |Servicios|D[Diseño Caja]
