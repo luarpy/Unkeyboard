@@ -23,6 +23,17 @@ La PCB es el elemento más importante ya que venimos de la ingeniería electrón
   - Protocolos para la comunicación entre plugins: uart, i2c, canbus, USB
 - Pines pare resetear el microcontrolador
 - Top mount para mejorar el ruido. El sonido se ve reflejado hacia arriba
+- Debe ser reparable
+
+## Workline
+```mermaid
+flowchart TD
+    A[Unkeyboard] -->|Study| B[Lista de materiales]
+    B --> |Servicios|C[Diseño PCB]
+    B --> |Servicios|D[Diseño Caja]
+    C -->|Plugins| E[Periféricos]
+
+```
 
 ## Resources
 - https://github.com/system76/launch/tree/master
