@@ -16,4 +16,4 @@ Unkown? Unknown keyboard yes
 - [https://github.com/system76/qmk_firmware/tree/master/keyboards/system76/launch_lite_1](https://github.com/system76/launch/tree/master/chassis)
 - https://jlcpcb.com/coupon-center
 - https://3d.jlcpcb.com/
-
+- http://www.keyboard-layout-editor.com/#/
