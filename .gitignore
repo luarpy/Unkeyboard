@@ -1,0 +1,12 @@
+*.md
+!README.md
+
+.vscode/
+*.code-workspace
+.directory
+*.zip
+/build/
+*~
+*autosave*
+*auto_saved*
+
