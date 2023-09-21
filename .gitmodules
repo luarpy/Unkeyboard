@@ -7,6 +7,3 @@
 [submodule "pcb/pcb-common/keyswitches.pretty"]
 	path = pcb/pcb-common/keyswitches.pretty
 	url = https://github.com/daprice/keyswitches.pretty.git
-[submodule "scottokeebs"]
-	path = scottokeebs
-	url = https://github.com/joe-scotto/scottokeebs.git
